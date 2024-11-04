@@ -1,10 +1,6 @@
-plotly
-numpy
-pandas
-pickle
-streamlit
+numpy 
+matplotlib 
+seaborn 
 scikit-learn
-matplotlib
-seaborn
-
-
+pandas 
+streamlit
